@@ -2,7 +2,8 @@
 
 ![tumblr_o5vqdbAPE31tpri36o1_500](https://user-images.githubusercontent.com/49591523/178697286-7aa0b205-c6d4-40a6-94b8-61246ca22f38.gif)
 
-First of all, Ignore my username, (you just checked it I know!) my cousin made my gmail account and You know how cousins are. If you don't I am jealous of you!
+First of all, Ignore my username, (made you check it I know!) my cousin made my gmail account and well you know how cousins are...
+Although If you don't I am jealous of you!
 
 ![who-the-hell-is-ohhhh-yeahhh-hello-to-you-too](https://user-images.githubusercontent.com/49591523/178698724-4224640d-788b-44b1-a217-b62499576582.gif)
 
