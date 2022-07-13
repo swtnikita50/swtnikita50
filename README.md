@@ -15,7 +15,7 @@ So I do most of the cool stuff around here, like
 
 ## [CR3BPLibrary](https://github.com/swtnikita50/CRTBP-Library)
 
-CR3BPLibrary: that I have built is SOOOO PRECOUS. This is mostly a library for the circular-restricted three-body gravitational problem, but its not important to be a researcher or engineer to enjoy this library. Ofcourse you need to be one of those to make changes to this, but hey you can use it to generate interesting patterns. And Who doesn't love cool patterns with an application to outer space. WHAAAAAAAA! Yeah these crazy orbits have an application to outer space as well (some applications to chemistry are also there, but more on that on another day). 
+CR3BPLibrary: that I have built is SOOOO PRECIOUS. This is mostly a library for the circular-restricted three-body gravitational problem, but its not important to be a researcher or engineer to enjoy this library. Ofcourse you need to be one of those to make changes to this, but hey you can use it to generate interesting patterns. And Who doesn't love cool patterns with an application to outer space. WHAAAAAAAA! Yeah these crazy orbits have an application to outer space as well (some applications to chemistry are also there, but more on that on another day). 
 One cool fact: NASA has carried out a space misson named GENESIS based on these concepts.
 
 Cool Stuff it can do:
@@ -23,6 +23,8 @@ Cool Stuff it can do:
 ![northernHalo2](https://user-images.githubusercontent.com/49591523/178713596-71c40e66-6cde-4393-a5c2-795f2598377f.png)
 
 ![LyapOrbitInvariantManifold](https://user-images.githubusercontent.com/49591523/178713606-cfda4403-0a6b-4e17-bed0-0b9d7710a47a.png)
+
+Check out the repo readme to understand how to generate them. And who knows you will get interested in the problem too. 
 
 
 ## [Gravity Assist Analysis](https://github.com/swtnikita50/GravityAssist)
