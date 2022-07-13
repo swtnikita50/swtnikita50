@@ -2,7 +2,7 @@
 
 ![tumblr_o5vqdbAPE31tpri36o1_500](https://user-images.githubusercontent.com/49591523/178697286-7aa0b205-c6d4-40a6-94b8-61246ca22f38.gif)
 
-First of all, Ignore my username, my cousin made my gmail account and You know how cousins are. If you don't I am jealous of you!
+First of all, Ignore my username, (you just checked it I know!) my cousin made my gmail account and You know how cousins are. If you don't I am jealous of you!
 
 ![who-the-hell-is-ohhhh-yeahhh-hello-to-you-too](https://user-images.githubusercontent.com/49591523/178698724-4224640d-788b-44b1-a217-b62499576582.gif)
 
@@ -54,7 +54,7 @@ mywebsite: So... **BEHOLD, FOR THE MIGHTY... MY WEBSITE!**. Well not exacty read
 
 somry :point_right::point_left: not found on other platforms
 
-Okay that's all for now.
+Thats all folks!
 
 ![good-bye-peace-out](https://user-images.githubusercontent.com/49591523/178713128-0ab90678-d0b7-4f8c-b197-3f5231e51b49.gif)
 
