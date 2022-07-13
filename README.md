@@ -12,7 +12,7 @@ So first let's meet the owner of this profile i.e. OBVIOUSLY ME. OHHMAHHGOD WHY 
 
 ![myGif](https://user-images.githubusercontent.com/49591523/178701654-27a57a67-fa8a-4e37-89f9-216177a73428.gif)
 
-So I do most of the cool stuff around here, like
+Enough about me, lets move ahead. So I do most of the cool stuff around here, like
 
 ## [CR3BPLibrary](https://github.com/swtnikita50/CRTBP-Library)
 
