@@ -32,6 +32,7 @@ Amaze Stuff it can do:
 
 ![LyapOrbitInvariantManifold](https://user-images.githubusercontent.com/49591523/178713606-cfda4403-0a6b-4e17-bed0-0b9d7710a47a.png)
 
+The Red Star you see here represents the moon and these are spacecraft Trajectories. Pretty cool orbits right!
 Check out the repo readme to understand how to generate them. And who knows you will get interested in the problem too. 
 
 
