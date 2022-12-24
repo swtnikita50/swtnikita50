@@ -2,6 +2,9 @@
 
 ![tumblr_o5vqdbAPE31tpri36o1_500](https://user-images.githubusercontent.com/49591523/178697286-7aa0b205-c6d4-40a6-94b8-61246ca22f38.gif)
 
+Hello There! I am final year dual degree student looking for PhD opportunities in the field of astrodyanmcis and satellite missions design. I am amjoring in Aerospace engineering at Indian Institute of Technology Kharagpur. My research interests are:
+- MutiBody Dynamical systems
+- Staellites
 First of all, Ignore my username, (made you check it I know!) my cousin made my gmail account and well you know how cousins are...
 Although If you don't I am jealous of you!
 
