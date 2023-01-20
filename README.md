@@ -4,6 +4,8 @@ Hello There! I am Nikita Sehrawat, a final year dual degree student looking for 
 - Spacecraft Attitude Determination and Control, Satellite Constellations
 - Space Situational Awareness, Space Debris Removal and Collision Avoidance
 
+You can find me [here](https://swtnikita50.github.io/nikitasehrawat.github.io//).
+
 Let me walk you through some of the stuff I do around here.
 
 ## [CR3BPLibrary](https://github.com/swtnikita50/CRTBP-Library)
@@ -43,8 +45,8 @@ Also one cool fact: Our team won 4th position among 600+ participants at the end
 ## [scholasticreplica](https://github.com/swtnikita50/scholasticreplica)
 scholasticreplica: This is just a project I carried out while learning HTML and CSS for webD and it turned out well good.
 
-## [mywebsite](https://github.com/swtnikita50/mywebsite)
-mywebsite: This space will host my personal website (with my personal blogs, and webd projects, some very cool animations, space mission deisgns, dancing and some crazy stuff as I will explore more), but well is under construction at the moment.
+## [nikitasehrawat.github.io](https://github.com/swtnikita50/nikitasehrawat.github.io)
+This space is used to host my personal website (with my personal blogs, and webd projects, some very cool animations, space mission deisgns, dancing and some crazy stuff as I will explore more), but is under construction at the moment.
 
 
 ## Contact Me
